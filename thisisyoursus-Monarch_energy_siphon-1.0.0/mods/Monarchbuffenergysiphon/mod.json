@@ -4,4 +4,5 @@
 	"Version": "1.0.0",
 	"LoadPriority": 5,
 	"Dependencies": []
+	"RequiredOnClient": false,
 }
