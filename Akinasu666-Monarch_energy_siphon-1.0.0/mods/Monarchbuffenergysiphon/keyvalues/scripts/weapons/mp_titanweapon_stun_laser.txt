@@ -1,0 +1,24 @@
+WeaponData
+{
+	"proficiency_good_spreadscale"					"0"
+	"proficiency_very_good_spreadscale"   			"0"
+    	"npc_max_burst"   								"2"
+    	"npc_rest_time_between_bursts_min"				"1"
+	"proficiency_good_bias"   						"0.5"
+	"proficiency_very_good_bias"   						"1"
+    Mods
+    {
+        energy_transfer
+        {
+			"ammo_per_shot"									"60"
+			"ammo_min_to_fire"								"60"
+			"regen_ammo_refill_rate"						"*0.5"
+        }
+        energy_field_energy_transfer
+        {
+			"ammo_per_shot"									"60"
+			"ammo_min_to_fire"								"60"
+			"regen_ammo_refill_rate"						"*0.5"
+        }
+    }
+}
