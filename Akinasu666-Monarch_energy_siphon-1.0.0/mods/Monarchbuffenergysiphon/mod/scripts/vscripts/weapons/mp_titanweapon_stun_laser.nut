@@ -1,3 +1,6 @@
+untyped
+
+
 global function MpTitanWeaponStunLaser_Init
 
 global function OnWeaponAttemptOffhandSwitch_titanweapon_stun_laser
