@@ -1,0 +1,16 @@
+{
+	"Name": "Monarchbuffenergysiphon",
+	"Description": "yesthatsits!!!.",
+	"Version": "1.0.0",
+	"LoadPriority": 5,
+	"Dependencies": [],
+	"Scripts": [
+		{
+			"Path": "mp_titanweapon_stun_laser.nut",
+			"RunOn": "SERVER && MP",
+			"ServerCallback": {
+				"After": "MpTitanWeaponStunLaser_Init"
+			}
+		}
+	]
+}
